@@ -9,7 +9,7 @@ http://190.20.242.244:8000/play/a05p/index.m3u8
 http://190.20.242.244:8000/play/a04v/index.m3u8
 #EXTINF:-1 ,BabyFirst
 http://190.20.242.244:8000/play/a045/index.m3u8
-#EXTINF:-1 ,CANAL 13
+#EXTINF:-1 group-title="Noticias" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_13_2018.svg",CANAL 13
 http://190.20.242.244:8000/play/a04e/index.m3u8
 #EXTINF:-1 ,CHV
 http://190.20.242.244:8000/play/a04d/index.m3u8
@@ -27,7 +27,7 @@ http://190.20.242.244:8000/play/a03y/index.m3u8
 http://190.20.242.244:8000/play/a03q/index.m3u8
 #EXTINF:-1 ,Cinemax
 http://190.20.242.244:8000/play/a05n/index.m3u8
-#EXTINF:-1 ,Claro Cinema
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_22692.png",Claro Cinema
 http://190.20.242.244:8000/play/a05y/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://x.playerlatino.live/clarosports.png",Claro Sports
 http://190.20.242.244:8000/play/a040/index.m3u8
@@ -53,7 +53,7 @@ http://190.20.242.244:8000/play/a04o/index.m3u8
 http://190.20.242.244:8000/play/a04z/index.m3u8
 #EXTINF:-1 ,ESPN 3
 http://190.20.242.244:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.postimg.cc/d0gvvC0t/ESPN4.png"ESPN4
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.postimg.cc/d0gvvC0t/ESPN4.png",ESPN 4
 http://190.20.242.244:8000/play/a04y/index.m3u8
 #EXTINF:-1 ,Enlace
 http://190.20.242.244:8000/play/a043/index.m3u8
@@ -101,11 +101,7 @@ http://190.20.242.244:8000/play/a05z/index.m3u8
 http://190.20.242.244:8000/play/a03n/index.m3u8
 #EXTINF:-1 ,RCN Novelas
 http://190.20.242.244:8000/play/a068/index.m3u8
-#EXTINF:-1 ,Regional Mexican
-http://190.20.242.244:8000/play/a05f/index.m3u8
-#EXTINF:-1 ,Rock Latino
-http://190.20.242.244:8000/play/a05e/index.m3u8
-#EXTINF:-1 ,STAR CHANNEL
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png,STAR CHANNEL
 http://190.20.242.244:8000/play/a03w/index.m3u8
 #EXTINF:-1 ,Sin Limites
 http://190.20.242.244:8000/play/a06m/index.m3u8
@@ -127,9 +123,9 @@ http://190.20.242.244:8000/play/a03x/index.m3u8
 http://190.20.242.244:8000/play/a05g/index.m3u8
 #EXTINF:-1 ,TNT
 http://190.20.242.244:8000/play/a03z/index.m3u8
-#EXTINF:-1 ,TNT SPORTS 2
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.postimg.cc/Vv2qbWn2/TNT-SPORTS.png" ,TNT SPORTS 2
 http://190.20.242.244:8000/play/a072/index.m3u8
-#EXTINF:-1 ,TNT SPORTS 3
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.postimg.cc/2y1d6Kb4/TNT-SPORTS3.png ",TNT SPORTS 3
 http://190.20.242.244:8000/play/a053/index.m3u8
 #EXTINF:-1 ,TVE
 http://190.20.242.244:8000/play/a044/index.m3u8
