@@ -53,7 +53,7 @@ http://190.20.242.244:8000/play/a04o/index.m3u8
 http://190.20.242.244:8000/play/a04z/index.m3u8
 #EXTINF:-1 ,ESPN 3
 http://190.20.242.244:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.postimg.cc/d0gvvC0t/ESPN4.png",ESPN 4
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.postimg.cc/d0gvvC0t/ESPN4.png",ESPN4
 http://190.20.242.244:8000/play/a04y/index.m3u8
 #EXTINF:-1 ,Enlace
 http://190.20.242.244:8000/play/a043/index.m3u8
@@ -123,9 +123,9 @@ http://190.20.242.244:8000/play/a03x/index.m3u8
 http://190.20.242.244:8000/play/a05g/index.m3u8
 #EXTINF:-1 ,TNT
 http://190.20.242.244:8000/play/a03z/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.postimg.cc/Vv2qbWn2/TNT-SPORTS.png" ,TNT SPORTS 2
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.postimg.cc/Vv2qbWn2/TNT-SPORTS.png",TNT SPORTS 2
 http://190.20.242.244:8000/play/a072/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.postimg.cc/2y1d6Kb4/TNT-SPORTS3.png ",TNT SPORTS 3
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.postimg.cc/2y1d6Kb4/TNT-SPORTS3.png",TNT SPORTS 3
 http://190.20.242.244:8000/play/a053/index.m3u8
 #EXTINF:-1 ,TVE
 http://190.20.242.244:8000/play/a044/index.m3u8
@@ -133,7 +133,7 @@ http://190.20.242.244:8000/play/a044/index.m3u8
 http://190.20.242.244:8000/play/a04b/index.m3u8
 #EXTINF:-1 ,Telemundo
 http://190.20.242.244:8000/play/a05l/index.m3u8
-#EXTINF:-1 ,TyC
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TyC_Sports_2003.webp/800px-TyC_Sports_2003.webp.png",TyC
 http://190.20.242.244:8000/play/a052/index.m3u8
 #EXTINF:-1 ,Universal
 http://190.20.242.244:8000/play/a06u/index.m3u8
