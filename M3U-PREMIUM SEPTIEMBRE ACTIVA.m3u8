@@ -79,7 +79,7 @@ http://190.20.242.244:8000/play/a04i/index.m3u8
 http://190.20.242.244:8000/play/a04j/index.m3u8
 #EXTINF:-1 ,History Channel
 http://190.20.242.244:8000/play/a03p/index.m3u8
-#EXTINF:-1 ,HomeandHealth
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png",HomeandHealth
 http://190.20.242.244:8000/play/a06e/index.m3u8
 #EXTINF:-1 ,I-Sat
 http://190.20.242.244:8000/play/a03s/index.m3u8
@@ -101,7 +101,7 @@ http://190.20.242.244:8000/play/a05z/index.m3u8
 http://190.20.242.244:8000/play/a03n/index.m3u8
 #EXTINF:-1 ,RCN Novelas
 http://190.20.242.244:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png,STAR CHANNEL
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",STAR CHANNEL
 http://190.20.242.244:8000/play/a03w/index.m3u8
 #EXTINF:-1 ,Sin Limites
 http://190.20.242.244:8000/play/a06m/index.m3u8
